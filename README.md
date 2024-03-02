@@ -3,16 +3,25 @@
 ## 📚  dedicated computer science student with a passion for web development.
 
 ## 🧟‍♀️ Currently delving into the intricacies of ASP.NET, I thrive on transforming ideas into interactive digital experiences.
-<img src="https://github.com/kemerya/Kemerya/assets/123075499/9e19279f-037e-4a81-bf2b-075ad3b0ea78" width="200">
+<img src="https://github.com/kemerya/Kemerya/assets/123075499/9e19279f-037e-4a81-bf2b-075ad3b0ea78" width="150">
 
 ## Proficient in 
-<img src="https://github.com/kemerya/Kemerya/assets/123075499/671bebbb-fdc8-4ccc-b1d2-e37e69a2053d" width="200">
+<img src="https://github.com/kemerya/Kemerya/assets/123075499/671bebbb-fdc8-4ccc-b1d2-e37e69a2053d" width="100">
 
 CSS, Bootstrap, DataTable, and FontAwesome, I bring creativity and technical acumen to every project.
 
 ## 🚀 Current Focus: Working on ASP.NET projects and exploring the vast landscape of .NET frameworks.
 
 ## 🤝 Open to Collaboration: I'm enthusiastic about collaborating on innovative web development ventures. Let's build something amazing together!
+
+### 💬 Let's Connect:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kemerya%20Zeynu-blue)](https://www.linkedin.com/in/kemerya-zeynu/)
+- [![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-lightblue)](https://twitter.com/YourTwitterHandle)
+- [![Instagram](https://img.shields.io/badge/Instagram-YourInstagramHandle-pink)](https://www.instagram.com/YourInstagramHandle/)
+- [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-darkgreen)](https://github.com/YourGitHubUsername)
+- [![Email](https://img.shields.io/badge/Email-kemerzeynu00.com-green)](mailto:kemerzeynu00@gmail.com)
+
+
 
 ### 💬 Let's Connect:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kemerya%20Zeynu-blue)](https://www.linkedin.com/in/kemerya-zeynu/)
