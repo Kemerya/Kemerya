@@ -1,13 +1,15 @@
-### Hi there! 👋 I'm Kemerya Zeynu, a passionate computer science student.
+####👋 Hi there! I'm Kemerya Zeynu, a dedicated computer science student with a passion for web development. Currently delving into the intricacies of ASP.NET, I thrive on transforming ideas into interactive digital experiences. Proficient in HTML, CSS, Bootstrap, DataTable, and FontAwesome, I bring creativity and technical acumen to every project.
 
-- 🔭 I’m currently working on ASP.NET projects.
-- 🌱 I’m continuously learning and exploring more about ASP.NET frameworks.
-- 👯 I’m open to collaboration on exciting web development projects.
-- 📫 How to reach me: 
-  - LinkedIn: [Kemerya Zeynu](https://www.linkedin.com/in/kemerya-zeynu/)
-  - Email: [YourEmail@example.com](mailto:youremail@example.com)
-  - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+##🚀 Current Focus: Working on ASP.NET projects and exploring the vast landscape of .NET frameworks.
 
-Let's connect! Feel free to reach out to me on LinkedIn or via email. I'm also open to collaboration and always excited to explore new opportunities in the world of web development.
+##🤝 Open to Collaboration: I'm enthusiastic about collaborating on innovative web development ventures. Let's build something amazing together!
+
+###💬 Let's Connect:
+##- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kemerya%20Zeynu-blue)](https://www.linkedin.com/in/kemerya-zeynu/)
+##- Email: [![Email](https://img.shields.io/badge/Email-YourEmail%40example.com-green)](mailto:youremail@example.com)
+##- [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-darkgreen)](https://github.com/YourGitHubUsername)
+
+##😄 Pronouns: She/Her
+
+###Let's connect, explore, and create in the world of coding! 🌐✨
+
