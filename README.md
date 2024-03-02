@@ -6,7 +6,7 @@
 <img src="https://github.com/kemerya/Kemerya/assets/123075499/9e19279f-037e-4a81-bf2b-075ad3b0ea78" width="200">
 
 ## Proficient in 
-<img src="https://github.com/kemerya/Kemerya/assets/123075499/671bebbb-fdc8-4ccc-b1d2-e37e69a2053d" width="150">
+<img src="https://github.com/kemerya/Kemerya/assets/123075499/671bebbb-fdc8-4ccc-b1d2-e37e69a2053d" width="300">
 
 CSS, Bootstrap, DataTable, and FontAwesome, I bring creativity and technical acumen to every project.
 
