@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Kemerya Zeynu, a dedicated computer science student with a passion for web development.
+# 👋 Hi there! I'm Kemerya Zeynu, a dedicated computer science student with a passion for web development.
 
 ## 🧟‍♀️ Currently delving into the intricacies of ASP.NET, I thrive on transforming ideas into interactive digital experiences.
 
