@@ -15,12 +15,12 @@ CSS, Bootstrap, DataTable, and FontAwesome, I bring creativity and technical acu
 ## 🤝 Open to Collaboration: I'm enthusiastic about collaborating on innovative web development ventures. Let's build something amazing together!
 
 ### 💬 Let's Connect:
+### 💬 Let's Connect:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kemerya%20Zeynu-blue)](https://www.linkedin.com/in/kemerya-zeynu/)
-- [![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-lightblue)](https://twitter.com/YourTwitterHandle)
-- [![Instagram](https://img.shields.io/badge/Instagram-YourInstagramHandle-pink)](https://www.instagram.com/YourInstagramHandle/)
-- [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubUsername-darkgreen)](https://github.com/YourGitHubUsername)
-- [![Email](https://img.shields.io/badge/Email-kemerzeynu00.com-green)](mailto:kemerzeynu00@gmail.com)
-
+- [![Twitter](https://github.com/kemerya/Kemerya/assets/123075499/2f4999e0-f9e7-41be-b1dc-d6a54579ec63)](Your Twitter Link)
+- [![Instagram](https://github.com/kemerya/Kemerya/assets/123075499/b71b810e-0920-4408-96c1-391483097e98)](Your Instagram Link)
+- [![GitHub](https://github.com/kemerya/Kemerya/assets/123075499/e8fe7c8c-7d4a-45e4-b99b-3ce770a30be3)](Your GitHub Link)
+- [![Email](https://img.shields.io/badge/Email-YourEmail%40example.com-green)](mailto:youremail@example.com)
 
 
 ### 💬 Let's Connect:
