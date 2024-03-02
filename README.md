@@ -3,7 +3,7 @@
 ## 🧟‍♀️ Currently delving into the intricacies of ASP.NET, I thrive on transforming ideas into interactive digital experiences.
 
 ## Proficient in 
-# ![image](https://github.com/kemerya/Kemerya/assets/123075499/e6705e57-045b-4cfb-b73c-d19f54e168f8)  ![image](https://github.com/kemerya/Kemerya/assets/123075499/671bebbb-fdc8-4ccc-b1d2-e37e69a2053d)
+ ![image](https://github.com/kemerya/Kemerya/assets/123075499/e6705e57-045b-4cfb-b73c-d19f54e168f8)  ![image](https://github.com/kemerya/Kemerya/assets/123075499/671bebbb-fdc8-4ccc-b1d2-e37e69a2053d)
 
 ## CSS, Bootstrap, DataTable, and FontAwesome, I bring creativity and technical acumen to every project.
 
