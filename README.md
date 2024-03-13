@@ -18,6 +18,4 @@
 - <image src="https://github.com/kemerya/Kemerya/assets/123075499/b71b810e-0920-4408-96c1-391483097e98" width="40">
 - <image src="https://github.com/kemerya/Kemerya/assets/123075499/e8fe7c8c-7d4a-45e4-b99b-3ce770a30be3" width="40">
 
-## 👩 Pronouns: She/Her
-
 ### Let's connect, explore, and create in the world of coding! 🌐✨
