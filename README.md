@@ -7,6 +7,7 @@
 
 ## Proficient in 
 <img src="https://github.com/kemerya/Kemerya/assets/123075499/671bebbb-fdc8-4ccc-b1d2-e37e69a2053d" width="300">  
+
 ## 🫴🌍🌐 I bring creativity and technical sense to every project.
 
 
