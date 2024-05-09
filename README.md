@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Kemerya Zeynu
 
-## 📚  dedicated computer science student with a passion for web development.
+## 📚   a computer science student passionate about web development.
 
-## 🧟‍♀️ Currently delving into the intricacies of ASP.NET, I thrive on transforming ideas into interactive digital experiences.
+## 🧟‍♀️ Currently diving into ASP.NET,To craft interactive digital experiences.
 <img src="https://github.com/kemerya/Kemerya/assets/123075499/9e19279f-037e-4a81-bf2b-075ad3b0ea78" width="200">
 
 ## Proficient in 
@@ -11,7 +11,7 @@
 
 ## 🚀 Current Focus: Working on ASP.NET projects and exploring the vast landscape of .NET frameworks.
 
-## 🤝 Open to Collaboration: I'm enthusiastic about collaborating on innovative web development ventures. Let's build something amazing together!
+## 🤝 Open to Collaboration: Let's connect and build something awesome together! You can reach me via email or on social media platforms.!
 
 ### 💬 Let's Connect:
 - <img src="https://github.com/kemerya/Kemerya/assets/123075499/2f4999e0-f9e7-41be-b1dc-d6a54579ec63" width="40">
