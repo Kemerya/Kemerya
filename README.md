@@ -2,12 +2,12 @@
 
 ## 📚   a computer science student passionate about web development.
 
-## 👩‍💻 Working on ASP.NET projects and exploring the vast landscape of .NET frameworks,To craft interactive digital experiences.
+## 👩‍💻 currently working on ASP.NET projects and exploring the vast landscape of .NET frameworks,To craft interactive digital experiences.
 <img src="https://github.com/kemerya/Kemerya/assets/123075499/9e19279f-037e-4a81-bf2b-075ad3b0ea78" width="200">
 
 ## Proficient in 
 <img src="https://github.com/kemerya/Kemerya/assets/123075499/671bebbb-fdc8-4ccc-b1d2-e37e69a2053d" width="300">  
- ## I bring creativity and technical sense to every project.
+## 🫴🌍🌐 I bring creativity and technical sense to every project.
 
 
 ## 🤝 Let's connect and build something awesome together! You can reach me via email or on social media platforms.!
